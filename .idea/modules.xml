@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bootcamp-deloitte-java-angular.iml" filepath="$PROJECT_DIR$/Bootcamp-deloitte-java-angular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula01POO/aula01POO.iml" filepath="$PROJECT_DIR$/aula01POO/aula01POO.iml" />
     </modules>
   </component>
 </project>
